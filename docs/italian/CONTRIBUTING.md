@@ -47,7 +47,7 @@ Puoi aiutarci:
 
 - [🛠 Aiutaci a correggere i bug/errori nella piattaforma di apprendimento di freeCodeCamp.org](#help-us-fix-bugs-in-freecodecamporgs-learning-platform)
 
-###  Ricerca, scrivi e aggiorna i nostri articoli di guida
+###  Ricerca, scrivi e aggiorna i nostri articoli della guida
 
 **Cosa sono gli articoli della Guida?**
 
@@ -136,7 +136,7 @@ Leggi la nostra [Guida su Come contribuire alla open source](https://github.com/
 
 I nostri moderatori della communita' [smistano](https://en.wikipedia.org/wiki/Software_bug#Bug_management) i problemi e le richieste di  pull/integrazione delle modifiche in base alla loro priorità, gravità e altri fattori. Puoi [trovare qui un glossario completo dei loro significati](https://github.com/freecodecamp/freecodecamp/labels).
 
-Dovresti esaminare questi problemi di **`Help Wanted/Ho bisogno di aiuto`** oppure **`first timers welcome/Principianti`** per una rapida ricerca di ciò che è disponibile per te su cui lavorare. Questi sono in palio e non c'è bisogno di andare avanti prima di lavorare su questi.
+Dovresti esaminare questi problemi di **`Help Wanted/Ho bisogno di aiuto`** oppure **`First timers welcome/Principianti`** per una rapida ricerca di ciò che è disponibile per te su cui lavorare. Questi sono in palio e non c'è bisogno di andare avanti prima di lavorare su questi.
 
 Se questi problemi mancano di chiarezza su ciò che deve essere fatto, sentiti libero di porre domande nei commenti.
 
