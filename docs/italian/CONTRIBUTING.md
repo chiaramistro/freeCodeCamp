@@ -47,11 +47,11 @@ Puoi aiutarci:
 
 - [🛠 Aiutaci a correggere i bug/errori nella piattaforma di apprendimento di freeCodeCamp.org](#help-us-fix-bugs-in-freecodecamporgs-learning-platform)
 
-###  Ricerca, scrivi e aggiorna i nostri articoli della guida
+###  Ricerca, scrivi e aggiorna i nostri articoli della Guida
 
 **Cosa sono gli articoli della Guida?**
 
-Gli articoli della guida ti aiutano a comprendere rapidamente il concetto di tecnologia. Queste sono brevi spiegazioni in inglese semplice che è possibile leggere prima di passare a risorse più approfondite.
+Gli articoli della Guida ti aiutano a comprendere rapidamente il concetto di tecnologia. Queste sono brevi spiegazioni in inglese semplice che è possibile leggere prima di passare a risorse più approfondite.
 
 Puoi trovare un [articolo di esempio sugli elementi HTML qui](./client/src/pages/html/elements/index.md).
 
